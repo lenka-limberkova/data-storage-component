@@ -13,7 +13,6 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
 
 ## Overview
 
@@ -36,8 +35,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://lenka-limberkova.github.io/data-storage-component/
 
 ## My process
 
@@ -87,7 +85,3 @@ For the responsive layout, going from desktop to mobile also meant remembering t
 ### AI Collaboration
 
 I used Claude as a learning assistant throughout this project - mainly for debugging CSS issues (like the storage bar alignment and background image positioning) and for explaining concepts like flexbox axes, the `position` property, and percentage-based sizing. Rather than getting finished code, I was guided with questions and explanations so I could work out the solutions myself.
-
-## Author
-
-- Frontend Mentor - [Add your username here](https://www.frontendmentor.io/profile/yourusername)
